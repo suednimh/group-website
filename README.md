@@ -28,7 +28,7 @@ A numbered list
 1. list item 3
 
 Bonus!
-![practice image](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Fancy Image Title")
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
 
 [Github Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
