@@ -1,2 +1,5 @@
 # group-website
-Testing Jekyll
+Learning how to make websites in Jekyll
+
+Some **bold** font
+
