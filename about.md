@@ -8,3 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Contact us
 
 - Email: {{site.email}}
+- Twitter: {{site.twitter}}
