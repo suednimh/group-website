@@ -2,3 +2,5 @@ title: "Building Websites in Github"
 description: "some sad description of my excuse for a web site with Github and Jekyll"
 email: "team@example.org"
 twitter: "I dont have a twitter"
+
+theme: jekyll-theme-hacker
